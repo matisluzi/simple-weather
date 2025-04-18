@@ -33,7 +33,7 @@
 			}
 		} catch (error) {
 			errorString = "Error loading city data: " + error.message; // set error state
-			throw error; // rethrow error to break promise chain in
+			throw error; // rethrow error to break promise chain
 		}
 	}
 
