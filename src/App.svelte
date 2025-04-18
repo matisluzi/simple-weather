@@ -89,7 +89,7 @@
 </script>
 
 <main class="container flex flex-col min-h-screen gap-4 p-4 md:mx-auto md:p-8">
-	<!-- Header	-->
+	<!-- Header -->
 	<div class="flex flex-col gap-1">
 		<h1 class="text-2xl font-bold">Simple Weather App</h1>
 		<p class="text-sm text-secondary">
