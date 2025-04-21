@@ -11,8 +11,8 @@
 
 1. Clone repository
    ```bash
-   git clone {repo_name}
-   cd weather-app
+   git clone https://github.com/matisluzi/simple-weather
+   cd simple-weather
    ```
 2. Install dependencies
    ```bash
